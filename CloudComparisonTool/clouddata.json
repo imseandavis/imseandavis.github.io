@@ -5,7 +5,7 @@
       "ref": "http://#"
     },
     "service": {
-      "name": "Shared Web hosting",
+      "name": "Shared Web Hosting",
       "ref": "http://#",
       "Properties": [ "Number of instance templates available", "GPU acceleration", "Custom instance creation feature", "CPU Limits", "Memory Limits", "Temporary Storage Limits" ]
     },
@@ -19,7 +19,7 @@
     ],
     "azure": [
       {
-        "name": "Azure shared App Services",
+        "name": "Azure Shared App Services",
         "ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
         "icon": "Azure App Service - Web App (was Websites).png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
