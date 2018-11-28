@@ -482,7 +482,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "http://#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -498,7 +498,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -622,7 +622,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -695,7 +695,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1049,7 +1049,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "http://#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1057,7 +1057,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1361,7 +1361,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1369,7 +1369,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1428,7 +1428,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1536,7 +1536,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1601,7 +1601,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1609,7 +1609,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1617,7 +1617,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1625,7 +1625,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1660,7 +1660,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "http://#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1690,7 +1690,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1717,7 +1717,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1725,7 +1725,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1835,7 +1835,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1843,7 +1843,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1851,24 +1851,24 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "oracle": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -1877,7 +1877,7 @@
   {
     "category": {
       "name": "Application Discovery Services",
-      "ref": "http://#"
+      "ref": "#"
     },
     "service": {
       "name": "Application Discovery Services",
@@ -1902,7 +1902,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -1910,7 +1910,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1918,7 +1918,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1926,7 +1926,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -1969,7 +1969,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2198,7 +2198,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -2214,7 +2214,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2222,7 +2222,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2477,7 +2477,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2578,7 +2578,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2614,7 +2614,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "http://#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -2622,7 +2622,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2638,7 +2638,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2897,7 +2897,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -2960,16 +2960,16 @@
     ],
     "google": [
       {
-        "name": "",
-        "ref": "",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3011,40 +3011,40 @@
     ],
     "azure": [
       {
-        "name": "",
-        "ref": "",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "google": [
       {
-        "name": "",
-        "ref": "",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "oracle": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3092,24 +3092,24 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "oracle": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3149,16 +3149,16 @@
     ],
     "google": [
       {
-        "name": "",
-        "ref": "",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3258,8 +3258,8 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3292,8 +3292,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3319,7 +3319,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3327,7 +3327,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3335,8 +3335,8 @@
     ],
     "ibm": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3351,8 +3351,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3392,7 +3392,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3400,7 +3400,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3528,7 +3528,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3558,8 +3558,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -3593,7 +3593,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3609,7 +3609,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3674,7 +3674,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3763,7 +3763,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3771,7 +3771,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3814,7 +3814,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3822,7 +3822,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3865,7 +3865,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3881,7 +3881,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3889,7 +3889,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3940,7 +3940,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -3983,7 +3983,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -3999,7 +3999,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4050,7 +4050,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4058,7 +4058,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4117,7 +4117,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4225,7 +4225,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -4241,7 +4241,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4249,7 +4249,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4320,7 +4320,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4371,7 +4371,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4517,7 +4517,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4657,7 +4657,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4665,7 +4665,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4734,7 +4734,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4742,7 +4742,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4811,7 +4811,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4899,7 +4899,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4907,7 +4907,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -4966,7 +4966,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5084,7 +5084,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5119,7 +5119,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5135,7 +5135,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5143,7 +5143,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5170,7 +5170,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5178,7 +5178,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5186,7 +5186,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5194,7 +5194,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5202,7 +5202,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5251,7 +5251,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5259,7 +5259,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5267,7 +5267,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5310,7 +5310,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5318,7 +5318,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5326,7 +5326,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5409,7 +5409,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5468,8 +5468,8 @@
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -5543,16 +5543,16 @@
     ],
     "oracle": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -5646,7 +5646,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5662,7 +5662,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5794,8 +5794,8 @@
     ],
     "google": [
       {
-        "name": "",
-        "ref": "",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -5810,16 +5810,16 @@
     ],
     "oracle": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
     ],
     "alibaba": [
       {
-        "name": "",
-        "ref": "https://#",
+        "name": "None",
+        "ref": "#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
       }
@@ -5845,7 +5845,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5853,7 +5853,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5928,7 +5928,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -5956,7 +5956,7 @@
     },
     "aws": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -5978,7 +5978,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6116,7 +6116,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6124,7 +6124,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6132,7 +6132,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6159,7 +6159,7 @@
     ],
     "azure": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6167,7 +6167,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6175,7 +6175,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6183,7 +6183,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6191,7 +6191,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6362,7 +6362,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6384,7 +6384,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6392,7 +6392,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6427,7 +6427,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6435,7 +6435,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6443,7 +6443,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6451,7 +6451,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6486,7 +6486,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6494,7 +6494,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6502,7 +6502,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6510,7 +6510,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6545,7 +6545,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "To be added", "To be added", "To be added", "To be added", "To be added" ]
@@ -6553,7 +6553,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6561,7 +6561,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -6569,7 +6569,7 @@
     ],
     "alibaba": [
       {
-        "name": "",
+        "name": "None",
         "ref": "https://#",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
