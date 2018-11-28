@@ -11,7 +11,7 @@
     },
     "aws": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -27,7 +27,7 @@
     ],
     "google": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -35,7 +35,7 @@
     ],
     "ibm": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
@@ -43,7 +43,7 @@
     ],
     "oracle": [
       {
-        "name": "",
+        "name": "None",
         "ref": "",
         "icon": "none.png",
         "Properties": [ "Yes", "To be added", "To be added", "To be added", "To be added" ]
